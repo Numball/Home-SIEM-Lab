@@ -28,7 +28,6 @@ The objective of this project is to build a practical Security Information and E
 ![image](https://github.com/user-attachments/assets/73d292bd-3c95-4f96-9b33-5acfabf387ff)
 
 - Install Elastic Agent on Kali
-![image](https://github.com/user-attachments/assets/b0865cc5-3173-402a-b4c9-da34d9c87c57)
 ![image](https://github.com/user-attachments/assets/bcb26b25-9d6e-40ec-8ead-d224b9ff6fca)
 ![image](https://github.com/user-attachments/assets/2f175c64-d430-4de2-931f-1d525c5c6f07)
 ![image](https://github.com/user-attachments/assets/4e7edb46-0518-4864-8e06-0020f59724f6)
