@@ -46,8 +46,7 @@ The objective of this project is to build a practical Security Information and E
 
 - Set up alerts for security events
 ![image](https://github.com/user-attachments/assets/755abba4-562a-4081-8688-4a7fef4e5fdd)
-![image](https://github.com/user-attachments/assets/d82c7a16-1e91-4f21-919f-5489e9c3bedb)
-![image](https://github.com/user-attachments/assets/51c6a5bc-f903-4971-8d16-f0d7a516b5a6)(Setting up email alert)
+![image](https://github.com/user-attachments/assets/d82c7a16-1e91-4f21-919f-5489e9c3bedb)(Setting up email alert)
 
 
 
